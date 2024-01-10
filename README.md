@@ -1,7 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 App Screenshots:
-![Screenshot_2024-01-10-14-40-05-890_com aulacube](https://github.com/nitesh622/Aula-Cube/assets/98612362/b2b9a26e-0680-4067-b189-e9c8b698e4db)
+![Screenshot_2024-01-10-14-39-58-948_com aulacube](https://github.com/nitesh622/Aula-Cube/assets/98612362/fdf65382-2189-41b9-bc19-4cbce35ab281)
+![Screenshot_2024-01-10-14-40-02-377_com aulacube](https://github.com/nitesh622/Aula-Cube/assets/98612362/95828de4-f6f1-4ebe-bd93-4b8522d45e50)
+![Screenshot_2024-01-10-14-40-05-890_com aulacube](https://github.com/nitesh622/Aula-Cube/assets/98612362/38091d9d-56f7-4eef-8d18-c74503283040)
 
 # Getting Started
 
