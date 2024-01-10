@@ -1,5 +1,8 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+App Screenshots:
+![Screenshot_2024-01-10-14-40-05-890_com aulacube](https://github.com/nitesh622/Aula-Cube/assets/98612362/b2b9a26e-0680-4067-b189-e9c8b698e4db)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
